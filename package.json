@@ -1,7 +1,7 @@
 {
   "name": "@razroo/razroo-remark-embed-code",
   "description": "Razroo Remark plugin for embedding code snippets from github permalinks.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "types",
